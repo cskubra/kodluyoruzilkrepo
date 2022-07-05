@@ -3,5 +3,6 @@
 ### kubra caliskan
 *patika* dan **alacagim** egitimle ilerleyecegime inaniyorum
 
-[Deneme Gorseli](https://google.com)
+[Patika Dev](https://www.patika.dev)
 ![Deneme gorsel onizleme](https://picsum.photos/200/300)
+
